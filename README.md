@@ -1,4 +1,4 @@
 # vue_basic_2_basics
-## 16. Understanding methods in Vue Apps
+## 17. Working with Data inside of a Vue App
 
-Mempelajari methods
+Mempelajari methods dan data
