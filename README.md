@@ -1,4 +1,4 @@
 # vue_basic_2_basics
-## 14. Interpolation and Data Binding
+## 15. Binding Attributes withthe v-bind Directive
 
-Menghubungkan app.js dengan index.html
+Mempelajari v-bind
