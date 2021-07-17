@@ -1,4 +1,4 @@
 # vue_basic_2_basics
-## 15. Binding Attributes withthe v-bind Directive
+## 16. Understanding methods in Vue Apps
 
-Mempelajari v-bind
+Mempelajari methods
